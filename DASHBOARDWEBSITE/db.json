@@ -1,0 +1,96 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "register": [
+    {
+      "id": 1,
+      "UserName": "varsha",
+      "email": "varshabiradar@gmail.com",
+      "mobile": "1231312312",
+      "password": "varsha12",
+      "ConfirmPassword": "varsha12"
+    },
+    {
+      "UserName": "punam",
+      "email": "pp@gmail.com",
+      "mobile": "7707832668",
+      "password": "pp123",
+      "ConfirmPassword": "pp123",
+      "id": 2
+    },
+    {
+      "UserName": "ashwini",
+      "email": "aa@gmail.com",
+      "mobile": "1212121212",
+      "password": "aa123",
+      "ConfirmPassword": "aa123",
+      "id": 3
+    },
+    {
+      "UserName": "rani",
+      "email": "rr@gmail.com",
+      "mobile": "1212121212",
+      "password": "rr12",
+      "ConfirmPassword": "rr12",
+      "id": 4
+    },
+    {
+      "UserName": "swara",
+      "email": "swara@gmail.com",
+      "mobile": "1231231231",
+      "password": "ss@12",
+      "ConfirmPassword": "ss@12",
+      "id": 5
+    },
+    {
+      "UserName": null,
+      "email": null,
+      "mobile": null,
+      "password": null,
+      "ConfirmPassword": null,
+      "id": 6
+    }
+  ],
+  "PRODUCT": [
+    {
+      "productimg": "/assets/IMAGES/Lwatch.webp",
+      "productname": "Watch",
+      "productprise": "1200",
+      "productstock": "1",
+      "id": 1
+    },
+    {
+      "productimg": "/assets/IMAGES/lehenga.webp",
+      "productname": "Lehenga Choli",
+      "productprise": "1200",
+      "productstock": "2",
+      "id": 2
+    },
+    {
+      "productimg": "/assets/IMAGES/laptop.jpg",
+      "productname": "Laptop",
+      "productprise": "1500",
+      "productstock": "2",
+      "id": 3
+    }
+  ],
+  "ABOUT": [
+    {
+      "id": 1,
+      "title": "E-commerse Website",
+      "desc": "E-commerce is powered by the internet.E-commerce (electronic commerce) is the buying and selling of goods and services, or the transmitting of funds or data.E-commerce is powered by the internet.E-commerce (electronic commerce) is the buying and selling of goods and services, or the transmitting of funds or data.E-commerce is powered by the internet.E-commerce (electronic commerce) is the buying and selling of goods and services, or the transmitting of funds or data.E-commerce is powered by the internet.E-commerce (electronic commerce) is the buying and selling of goods and services, or the transmitting of funds or data.E-commerce is powered by the internet.E-commerce (electronic commerce) is the buying and selling of goods and services, or the transmitting of funds or data.E-commerce is powered by the internet.E-commerce (electronic commerce) is the buying and selling of goods and services, or the transmitting of funds or data.vE-commerce is powered by the internet. ",
+      "image": "/assets/IMAGES/Ecomm.webp"
+    }
+  ],
+  "HOME": [
+    {
+      "id": 1,
+      "slideimage": "/assets/IMAGES/Ecomm.webp"
+    }
+  ]
+}
